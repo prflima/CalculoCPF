@@ -1,0 +1,10 @@
+C:\Users\paulo.rflima1\Lógica\calculocpf\bin\Debug\netcoreapp2.0\calculocpf.deps.json
+C:\Users\paulo.rflima1\Lógica\calculocpf\bin\Debug\netcoreapp2.0\calculocpf.runtimeconfig.json
+C:\Users\paulo.rflima1\Lógica\calculocpf\bin\Debug\netcoreapp2.0\calculocpf.runtimeconfig.dev.json
+C:\Users\paulo.rflima1\Lógica\calculocpf\bin\Debug\netcoreapp2.0\calculocpf.dll
+C:\Users\paulo.rflima1\Lógica\calculocpf\bin\Debug\netcoreapp2.0\calculocpf.pdb
+C:\Users\paulo.rflima1\Lógica\calculocpf\obj\Debug\netcoreapp2.0\calculocpf.csproj.CoreCompileInputs.cache
+C:\Users\paulo.rflima1\Lógica\calculocpf\obj\Debug\netcoreapp2.0\calculocpf.AssemblyInfoInputs.cache
+C:\Users\paulo.rflima1\Lógica\calculocpf\obj\Debug\netcoreapp2.0\calculocpf.AssemblyInfo.cs
+C:\Users\paulo.rflima1\Lógica\calculocpf\obj\Debug\netcoreapp2.0\calculocpf.dll
+C:\Users\paulo.rflima1\Lógica\calculocpf\obj\Debug\netcoreapp2.0\calculocpf.pdb
